@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebAPIPractice2</name>
+    </assembly>
+    <members>
+        <!-- Badly formed XML comment ignored for member "T:WebAPIPractice2.Controllers.ProductsController" -->
+        <member name="M:WebAPIPractice2.Controllers.ProductsController.GetAllProducts">
+            <summary>
+            Get all product's data
+            </summary>
+            <returns></returns>
+            <remarks> get products' data</remarks>
+            <response code="404">Not found</response>
+            <response code="500">Internal Server Error</response>
+        </member>
+    </members>
+</doc>
